@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.navbar-custom {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #f8f9fa; /* Adjust background color if needed */
+}
+
+.navbar-custom .navbar-brand {
+  font-size: 1.5rem; /* Increase the font size */
+  font-weight: bold;
+}
+
+.navbar-custom .navbar-text span {
+  font-weight: bold;
+}
